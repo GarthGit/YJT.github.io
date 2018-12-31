@@ -1,2 +1,2 @@
 # YJT.github.io
-My Biog
+My Blog
